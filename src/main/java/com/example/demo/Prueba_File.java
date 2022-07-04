@@ -9,5 +9,14 @@ public class Prueba_File {
 
     }
 
+    public void crearImpuesto(){
+
+
+    }
+
+    public void denegarImpuestos(){
+
+    }
+
 
 }
